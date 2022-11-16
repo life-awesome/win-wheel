@@ -156,7 +156,7 @@
 
 /* анимация вращения */
 .is-spinning .spinner {
-  transition: transform 8s cubic-bezier(0.1, -0.01, 0, 1);
+  transition: transform 4s cubic-bezier(0.1, -0.01, 0, 1);
 }
 
 /* анимация движения язычка */

@@ -1,6 +1,6 @@
 export function hexToHSL(H) {
     // Convert hex to RGB first
-    let r = 0, g = 0, b = 0;
+    let r = '', g = 0, b = 0;
     if (H.length == 4) {
         r = "0x" + H[1] + H[1];
         g = "0x" + H[2] + H[2];
